@@ -51,7 +51,7 @@ This project is a complete example of how to build an SEO‑optimized, server‑
 
 1. **Clone the repository**  
 ```bash
-   git clone https://github.com/Fernanda-Kipper/social-media-comparer
+   git clone https://github.com/jefersonprimer/social-media-comparer
    cd social-media-comparer
 ```
 
